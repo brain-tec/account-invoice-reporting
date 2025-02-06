@@ -6,6 +6,9 @@
 [![Translation Status](https://translation.odoo-community.org/widgets/account-invoice-reporting-17-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/account-invoice-reporting-17-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
+# BT Customizations
+Open OCA PRs merged
+- (https://github.com/OCA/account-invoice-reporting/pull/350) Fix on account_invoice_report_grouped_by_picking
 
 # account-invoice-reporting
 
